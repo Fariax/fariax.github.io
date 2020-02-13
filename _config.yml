@@ -76,7 +76,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "cristian.farias@outlook.com"
+  #email: "cristian.farias@outlook.com"
   facebook: cristianfariax
   github: fariax
   twitter: CristianFariax
@@ -87,9 +87,9 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
+  spotify: cristian.farias
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: TheFariax
 #  twitch: yourname
 #  yelp: yourname
 
