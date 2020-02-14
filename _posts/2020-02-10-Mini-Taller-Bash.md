@@ -7,7 +7,7 @@ date:   2020-01-08 18:00:00
 last_modified_at: 2020-02-10 16:00:00
 comments: true
 #image: /img/bash.png
-share-image: /img/bash.png
+social-share: /img/bash.png
 ---
 Esta guía tiene por objetivo dar una introducción muy clara y concreta a los comandos básicos de la linea de comandos con bash.  Esta guía no ha sido creada para trabajar directamente con Linux sino de una manera mas genérica dado que hoy (inicios del 2020) el shell bash no solo se encuentra en este sistema operativo, sino que es posible encontrarlo en varias implementaciones, como veremos mas adelante.
 
@@ -390,7 +390,7 @@ Los primeros cinco parámetros definen cuando debe ser ejecutado y el sexto defi
 
 El símbolo `*` es un comodín que significa *todos*.
 
-![Crontab File](img/crontab.png)
+![Crontab File](/img/crontab.png)
 
 Por ejemplo:  
 
@@ -412,7 +412,7 @@ Para instalar mcedit debes instalar el paquete "**Midnight Commander**" (llamado
 
 **Midnight Commander** es una herramienta de exploración de archivos tipo *Norton Commander* que entrega muchas utilidades para la consola incluyendo conexión de red, ftp, etc.
 
-![mcedit](img/mcedit.png)
+![mcedit](/img/mcedit.png)
 
 
 Para crear un script paso a paso:
@@ -435,7 +435,7 @@ Para crear un script paso a paso:
 
 Debería quedar algo como esto:
 
-![mcedit](img/script.png)
+![mcedit](/img/script.png)
 
 La salida debe ser algo como esto:
 ```bash
