@@ -6,6 +6,8 @@ tags: [Shell, Bash]
 date:   2020-01-08 18:00:00
 last_modified_at: 2020-02-10 16:00:00
 comments: true
+#image: /img/bash.png
+share-image: /img/bash.png
 ---
 Esta guía tiene por objetivo dar una introducción muy clara y concreta a los comandos básicos de la linea de comandos con bash.  Esta guía no ha sido creada para trabajar directamente con Linux sino de una manera mas genérica dado que hoy (inicios del 2020) el shell bash no solo se encuentra en este sistema operativo, sino que es posible encontrarlo en varias implementaciones, como veremos mas adelante.
 
