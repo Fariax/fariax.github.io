@@ -24,13 +24,14 @@
           {%- endfor -%}
         </ul>
       <p class="copyright text-muted">
-      {{ site.author.name }}
-      &nbsp;&bull;&nbsp;
-      {{ site.time | date: '%Y' }}
-
+        Copyleft &copy; {{ site.author.name }}&nbsp;&bull;&nbsp; {{ site.time | date: '%Y' }}
       {% if site.url-pretty %}
       &nbsp;&bull;&nbsp;
       <a href="{{ '' | absolute_url }}">{{ site.url-pretty }}</a>
+      <br />Casi todos los derechos reservados.
+      <br /><br />
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" title="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."><img alt="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+      <br />
       {% endif %}
 
       {% if site.matomo %}
